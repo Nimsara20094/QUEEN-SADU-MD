@@ -13,7 +13,7 @@
       height: 100vh;
       margin: 0;
       background-color: green;
-      background-image: url('https://files.catbox.moe/3hrstp.jpg');
+      background-image: url('https://files.catbox.moe/209ivo.jpg');
       background-size: cover; /* Makes sure the image covers the entire screen */
       background-position: center; /* Centers the image */
       background-repeat: no-repeat;
